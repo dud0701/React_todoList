@@ -1,0 +1,20 @@
+.color{
+    display: table-cell;
+    padding : 0.8em;
+    border-radius: 5px; 
+    margin:10px;
+    width:2px;
+    
+}
+
+li {
+    padding: 0 10px;
+}
+
+.color-template{
+    float: left
+}
+
+.font-template{
+    display:inline-block;
+}
